@@ -3,7 +3,7 @@
 /* dica: mude uma coisa de cada vez e confira o resultado! */
 
 :root {
-  /* 🎨 quer mudar as cores do site? comece por aqui! */
+    /* 🎨 quer mudar as cores do site? comece por aqui! */
   --cor-fundo: #faf8f4;        /* cor do fundo principal */
   --cor-texto: #272333;        /* cor da fonte principal */
   --cor-destaque: #7959ae;     /* cor de títulos, detalhes e botões */
